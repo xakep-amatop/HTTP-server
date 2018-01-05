@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+  <IP-address>::1</IP-address>
+  <TCP-port>1979</TCP-port>
+  <number-workers>10</number-workers>
+  <root-path>/home/mykolakvach/Documents/Projects/MS_CPPLTRP_03/HTTP_server/webroot</root-path>
+</configuration>
